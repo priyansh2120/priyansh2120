@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m aspiring software engineer.<br>🤝 I’m looking for an internship.<br>🌱 I’m currently doing B.Tech in CSE at IIIT Pune.<br>💬 Connect to me on LinkedIn or shoot me an email.<br>⚡ I believe a code is mightier than a pen and sword combined.
+🔭 I’m aspiring software engineer.<br>🤝 I’m looking for an internship.<br>🌱 I’m currently doing B.Tech in CSE at IIIT Pune.<br>💬 Connect to me on LinkedIn or shoot me an <a href="mailto:priyanshkumar50@gmail.com">Email</a>.<br>⚡ I believe a code is mightier than a pen and sword combined.
 
 
 ## 🌐 Socials:
